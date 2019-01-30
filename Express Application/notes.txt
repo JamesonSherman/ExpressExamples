@@ -1,6 +1,7 @@
 notes for install:
 npm init
-npm install express --save
+npm install express --save  // installs express
+npm install ejs --save      //installs ejs to run ejs files
 node app.js //to run
 
 so the express application is broken down into a few steps
